@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/KushagraSikka/my-3d-data-pipeline/static/css/main.f855e6bc.css",
-    "main.js": "/KushagraSikka/my-3d-data-pipeline/static/js/main.0ea3a5c2.js",
+    "main.css": "/KushagraSikka/my-3d-data-pipeline/static/css/main.e6c13ad2.css",
+    "main.js": "/KushagraSikka/my-3d-data-pipeline/static/js/main.60a12008.js",
     "static/js/453.d66e3176.chunk.js": "/KushagraSikka/my-3d-data-pipeline/static/js/453.d66e3176.chunk.js",
-    "static/media/logo.svg": "/KushagraSikka/my-3d-data-pipeline/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/KushagraSikka/my-3d-data-pipeline/index.html",
-    "main.f855e6bc.css.map": "/KushagraSikka/my-3d-data-pipeline/static/css/main.f855e6bc.css.map",
-    "main.0ea3a5c2.js.map": "/KushagraSikka/my-3d-data-pipeline/static/js/main.0ea3a5c2.js.map",
+    "main.e6c13ad2.css.map": "/KushagraSikka/my-3d-data-pipeline/static/css/main.e6c13ad2.css.map",
+    "main.60a12008.js.map": "/KushagraSikka/my-3d-data-pipeline/static/js/main.60a12008.js.map",
     "453.d66e3176.chunk.js.map": "/KushagraSikka/my-3d-data-pipeline/static/js/453.d66e3176.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.0ea3a5c2.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.60a12008.js"
   ]
 }
